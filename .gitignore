@@ -1,0 +1,18 @@
+.gradle/
+build/
+.idea/
+*.iml
+.env
+HELP.md
+/data/
+/meu-gasto.wav
+/resposta.mp3
+
+### Eclipse / STS ###
+.classpath
+.project
+.settings/
+.factorypath
+
+### VS Code ###
+.vscode/
